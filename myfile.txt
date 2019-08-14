@@ -1,5 +1,9 @@
 practicing git
+<<<<<<< HEAD
 add: Register a change in an index
 commit: Save the status of an index
 pull: Obtain the content of the remote repository
 
+=======
+add: Register a change in an index
+>>>>>>> parent of 4f7cd44... third commit
